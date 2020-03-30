@@ -1,0 +1,108 @@
+\documentclass[12pt,a4paper]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{biblatex}
+
+% Verbatim con fondo gris
+\usepackage{fancyvrb,newverbs,xcolor}
+\usepackage{lipsum}% just for this example
+
+\definecolor{cverbbg}{gray}{0.93}
+
+\newenvironment{cverbatim}
+ {\SaveVerbatim{cverb}}
+ {\endSaveVerbatim
+  \flushleft\fboxrule=0pt\fboxsep=.5em
+  \colorbox{cverbbg}{\BUseVerbatim{cverb}}%
+  \endflushleft
+}
+\newenvironment{lcverbatim}
+ {\SaveVerbatim{cverb}}
+ {\endSaveVerbatim
+  \flushleft\fboxrule=0pt\fboxsep=.5em
+  \colorbox{cverbbg}{%
+    \makebox[\dimexpr\linewidth-2\fboxsep][l]{\BUseVerbatim{cverb}}%
+  }
+  \endflushleft
+}
+
+\newcommand{\ctexttt}[1]{\colorbox{cverbbg}{\texttt{#1}}}
+\newverbcommand{\cverb}
+  {\setbox\verbbox\hbox\bgroup}
+  {\egroup\colorbox{cverbbg}{\box\verbbox}}
+
+% END: Verbatim con fondo gris
+
+\newcommand{\asignatura}{Gestión de Procesos y Servicios}
+\newcommand{\trabajo}{Integración de Sistemas Modelos de Madurez de Capacidades}
+\newcommand{\trabajoMay}{INTEGRACIÓN DE SISTEMAS MODELOS DE MADUREZ DE CAPACIDADES}
+
+
+\addbibresource{mibibliografia.bib}
+
+\title{\trabajo}
+\author{Antonio Morán Muñoz}
+\date{Febrero 2020}
+\setlength{\parindent}{0pt}
+\usepackage[left=2.54cm,right=2.54cm,top=2.54cm,bottom=2.54cm]{geometry}
+\author{Antonio Morán Muñoz}
+\title{\trabajo}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{\trabajoMay}
+\rhead{\thepage}
+\cfoot{\asignatura}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+
+\begin{document}
+\begin{titlepage}
+\thispagestyle{empty}
+\centering
+	\includegraphics[width=0.35\textwidth]{Images/castilla.png}\par\vspace{1cm}
+	{\scshape\LARGE Universidad de Castilla-La Mancha \par}
+	\vspace{1cm}
+	{\scshape\Large \asignatura\par}
+	\vspace{1.5cm}
+	{\huge\bfseries \trabajo\par}
+	\vspace{2cm}
+	{\Large\itshape Antonio Morán Muñoz\par}
+
+	\vfill
+
+% Bottom of the page
+	{CURSO ACADÉMICO 2019/2020}
+	\vfill
+	{\large \today\par}
+\end{titlepage}
+
+\frontmatter
+\tableofcontents
+
+\mainmatter
+\chapter{Introducción}\label{sec:introduccion}
+\input{Sections/intro}
+
+\chapter{Terminología}\label{sec:terminologia}
+\input{Sections/term}
+
+\chapter{Conceptos}\label{sec:conceptos}
+\input{Sections/conc}
+
+\chapter{Herramientas}\label{sec:herramientas}
+\input{Sections/herr}
+
+\chapter{Conclusiones}\label{sec:conclusiones}
+\input{Sections/conclusiones}
+
+
+\newpage
+\printbibliography
+
+\end{document}
+
