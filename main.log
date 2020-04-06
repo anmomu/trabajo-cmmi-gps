@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.3.30)  30 MAR 2020 18:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.3.30)  6 APR 2020 19:48
 entering extended mode
 **./main.tex
 (main.tex
@@ -572,7 +572,10 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count396
 \@quotereset=\count397
-No file main.aux.
+(main.aux
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
@@ -593,7 +596,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
 LaTeX Font Info:    ... okay on input line 63.
 LaTeX Info: Redefining \. on input line 63.
 LaTeX Info: Redefining \% on input line 63.
-("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+ ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count398
 \scratchdimen=\dimen154
@@ -639,6 +642,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 63.
 LaTeX Info: Redefining \pageref on input line 63.
 LaTeX Info: Redefining \nameref on input line 63.
+ (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -693,7 +697,7 @@ Package biblatex Info: Reference segment=0 on input line 63.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<Images/castilla.png, id=3, 1204.5pt x 1204.5pt>
+<Images/castilla.png, id=39, 1204.5pt x 1204.5pt>
 File: Images/castilla.png Graphic file (type png)
 <use Images/castilla.png>
 Package pdftex.def Info: Images/castilla.png  used on input line 67.
@@ -711,7 +715,16 @@ This may cause the page layout to be inconsistent, however.
 
 [2
 
-]
+] (main.toc
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+)
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
@@ -722,12 +735,6 @@ This may cause the page layout to be inconsistent, however.
 ]
 Cap\'{\i }tulo 1.
 (Sections/intro.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -778,10 +785,7 @@ LaTeX Warning: Citation 'history2' on page 2 undefined on input line 22.
 
 LaTeX Warning: Citation '13vs20' on page 2 undefined on input line 22.
 
-
-LaTeX Warning: Reference `fig:evolution' on page 2 undefined on input line 25.
-
-<Images/evolution.PNG, id=42, 516.12825pt x 437.2335pt>
+<Images/evolution.PNG, id=85, 516.12825pt x 437.2335pt>
 File: Images/evolution.PNG Graphic file (type png)
 <use Images/evolution.PNG>
 Package pdftex.def Info: Images/evolution.PNG  used on input line 29.
@@ -793,7 +797,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.91 \chapter
+l.93 \chapter
              {Terminología}\label{sec:terminologia} [2] [3 <./Images/evolution
 .PNG>] [4
 
@@ -803,49 +807,40 @@ Cap\'{\i }tulo 2.
 
 LaTeX Warning: Citation 'term' on page 5 undefined on input line 1.
 
-[5] [6] [7] [8] [9] [10] [11]) [12]
+[5]) [6]
 Cap\'{\i }tulo 3.
 (Sections/conc.tex
 
-LaTeX Warning: Citation 'ProductCMMIfor2010' on page 13 undefined on input line
- 1.
+LaTeX Warning: Citation 'ProductCMMIfor2010' on page 7 undefined on input line 
+1.
 
-) [13
+[7
 
-] [14
-
-]
+]) [8]
 Cap\'{\i }tulo 4.
-(Sections/herr.tex) [15] [16
+(Sections/herr.tex) [9
+
+] [10
 
 ]
 Cap\'{\i }tulo 5.
-(Sections/conclusiones.tex) [17]
+(Sections/conclusiones.tex) [11]
 
-LaTeX Warning: Empty bibliography on input line 105.
+LaTeX Warning: Empty bibliography on input line 107.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
 (main.aux
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 107.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 107.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 50DB541E105C800758A325A94DD8E517;534.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  42DB314973D522A2625A32D606F95331;369.
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -855,27 +850,28 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 107.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
- 16012 strings out of 480932
- 280547 string characters out of 2909620
- 1045356 words of memory out of 3000000
- 31627 multiletter control sequences out of 15000+200000
- 538834 words of font info for 45 fonts, out of 3000000 for 9000
+ 16037 strings out of 480932
+ 281079 string characters out of 2909620
+ 1045897 words of memory out of 3000000
+ 31640 multiletter control sequences out of 15000+200000
+ 539500 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,12n,45p,1634b,1838s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,12n,45p,1634b,1891s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmti12.pfb>
-Output written on main.pdf (21 pages, 267479 bytes).
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti1
+2.pfb>
+Output written on main.pdf (15 pages, 284442 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 186 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 

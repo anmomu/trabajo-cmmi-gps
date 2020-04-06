@@ -9,8 +9,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Terminología}{5}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Conceptos}{13}{chapter.3}%
+\contentsline {chapter}{\numberline {3}Conceptos}{7}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Herramientas}{15}{chapter.4}%
+\contentsline {section}{\numberline {3.1}Componentes de un área de proceso}{7}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Conclusiones}{17}{chapter.5}%
+\contentsline {subsection}{\numberline {3.1.1}Tipos de componentes de modelo}{7}{subsection.3.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Herramientas}{9}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Conclusiones}{11}{chapter.5}%
