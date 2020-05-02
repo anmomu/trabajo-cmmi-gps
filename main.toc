@@ -7,17 +7,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Orígenes y evolución}{1}{section.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Terminología}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Terminología}{3}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Conceptos}{7}{chapter.3}%
+\contentsline {chapter}{\numberline {3}Conceptos}{5}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Componentes de un área de proceso}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.1}Componentes de un área de proceso}{5}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Tipos de componentes de modelo}{7}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.1}Tipos de componentes de modelo}{5}{subsection.3.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Relación de los componentes de modelo con las áreas de proceso}{8}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.2}Relación de los componentes de modelo con las áreas de proceso}{6}{subsection.3.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Áreas de Proceso}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Áreas de Proceso}{6}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Representaciones y niveles}{7}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Representaciones}{8}{subsection.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Niveles}{9}{subsection.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Niveles de capacidad}{9}{section*.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Herramientas}{11}{chapter.4}%
 \defcounter {refsection}{0}\relax 
