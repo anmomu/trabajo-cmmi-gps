@@ -15,6 +15,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.1}Tipos de componentes de modelo}{7}{subsection.3.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Herramientas}{9}{chapter.4}%
+\contentsline {subsection}{\numberline {3.1.2}Relación de los componentes de modelo con las áreas de proceso}{8}{subsection.3.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Conclusiones}{11}{chapter.5}%
+\contentsline {section}{\numberline {3.2}Áreas de Proceso}{8}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Herramientas}{11}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Conclusiones}{13}{chapter.5}%

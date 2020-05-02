@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.3.30)  6 APR 2020 19:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.3.30)  1 MAY 2020 19:11
 entering extended mode
 **./main.tex
 (main.tex
@@ -697,7 +697,7 @@ Package biblatex Info: Reference segment=0 on input line 63.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<Images/castilla.png, id=39, 1204.5pt x 1204.5pt>
+<Images/castilla.png, id=43, 1204.5pt x 1204.5pt>
 File: Images/castilla.png Graphic file (type png)
 <use Images/castilla.png>
 Package pdftex.def Info: Images/castilla.png  used on input line 67.
@@ -785,7 +785,7 @@ LaTeX Warning: Citation 'history2' on page 2 undefined on input line 22.
 
 LaTeX Warning: Citation '13vs20' on page 2 undefined on input line 22.
 
-<Images/evolution.PNG, id=85, 516.12825pt x 437.2335pt>
+<Images/evolution.PNG, id=90, 516.12825pt x 437.2335pt>
 File: Images/evolution.PNG Graphic file (type png)
 <use Images/evolution.PNG>
 Package pdftex.def Info: Images/evolution.PNG  used on input line 29.
@@ -816,15 +816,21 @@ LaTeX Warning: Citation 'ProductCMMIfor2010' on page 7 undefined on input line
 
 [7
 
-]) [8]
-Cap\'{\i }tulo 4.
-(Sections/herr.tex) [9
+]
+<Images/modelcom.png, id=137, 328.22626pt x 218.61674pt>
+File: Images/modelcom.png Graphic file (type png)
+<use Images/modelcom.png>
+Package pdftex.def Info: Images/modelcom.png  used on input line 23.
+(pdftex.def)             Requested size: 328.22545pt x 218.6162pt.
+ [8 <./Images/modelcom.png>]) [9] [10
 
-] [10
+]
+Cap\'{\i }tulo 4.
+(Sections/herr.tex) [11] [12
 
 ]
 Cap\'{\i }tulo 5.
-(Sections/conclusiones.tex) [11]
+(Sections/conclusiones.tex) [13]
 
 LaTeX Warning: Empty bibliography on input line 107.
 
@@ -836,11 +842,20 @@ LaTeX Info: Redefining \% on input line 28.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 50DB541E105C800758A325A94DD8E517;534.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 416365B033EB55B2EFE42348602E4226;656
+(rerunfilecheck)             After:  F811AD89F6A2B16EC66A5FE4FBB80A41;722.
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -853,25 +868,26 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
- 16037 strings out of 480932
- 281079 string characters out of 2909620
- 1045897 words of memory out of 3000000
- 31640 multiletter control sequences out of 15000+200000
- 539500 words of font info for 47 fonts, out of 3000000 for 9000
+ 16055 strings out of 480932
+ 281358 string characters out of 2909620
+ 1045949 words of memory out of 3000000
+ 31651 multiletter control sequences out of 15000+200000
+ 539837 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,12n,45p,1634b,1891s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti1
-2.pfb>
-Output written on main.pdf (15 pages, 284442 bytes).
+ <C:\Users\Antonio Morán Muñoz\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
+appen/ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc
+10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (17 pages, 328375 bytes).
 PDF statistics:
- 186 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 213 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
